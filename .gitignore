@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Power BI / Excel con datos REALES (nunca versionar)
+*.pbix
+*.xls
+*.xlsx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# NOTA: los CSV sintéticos en data/ SÍ se versionan (no contienen datos reales).

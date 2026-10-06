@@ -1,0 +1,301 @@
+rut_cliente,nombre,direccion,telefono,email,activo
+25.214.125-4,Cliente0001,"Calle Ejemplo 4013, La Reina",+56928728463,cliente0001@example.com,True
+22.189.704-6,Cliente0002,"Calle Ejemplo 521, Peñalolén",+56922575562,cliente0002@example.com,False
+21.716.127-8,Cliente0003,"Calle Ejemplo 3258, La Florida",+56966306997,cliente0003@example.com,False
+23.384.928-0,Cliente0004,"Calle Ejemplo 2616, Macul",+56955667651,cliente0004@example.com,False
+11.881.444-1,Cliente0005,"Calle Ejemplo 1520, Macul",+56922981052,cliente0005@example.com,True
+16.718.370-0,Cliente0006,"Calle Ejemplo 7528, La Florida",+56926753883,cliente0006@example.com,True
+17.180.665-4,Cliente0007,"Calle Ejemplo 5926, La Florida",+56935808537,cliente0007@example.com,True
+6.777.333-4,Cliente0008,"Calle Ejemplo 1308, La Reina",+56923556182,cliente0008@example.com,True
+19.750.954-5,Cliente0009,"Calle Ejemplo 2665, Ñuñoa",+56957683626,cliente0009@example.com,False
+13.818.799-1,Cliente0010,"Calle Ejemplo 9981, La Reina",+56981691040,cliente0010@example.com,True
+10.573.488-4,Cliente0011,"Calle Ejemplo 9126, La Reina",+56953524491,cliente0011@example.com,True
+6.334.941-0,Cliente0012,"Calle Ejemplo 5169, Macul",+56945935572,cliente0012@example.com,False
+23.997.835-5,Cliente0013,"Calle Ejemplo 3484, Macul",+56963100814,cliente0013@example.com,True
+25.569.246-4,Cliente0014,"Calle Ejemplo 2288, La Reina",+56985345555,cliente0014@example.com,True
+23.538.697-6,Cliente0015,"Calle Ejemplo 5931, La Reina",+56928566572,cliente0015@example.com,True
+7.873.148-1,Cliente0016,"Calle Ejemplo 2505, La Reina",+56966661351,cliente0016@example.com,True
+17.490.710-7,Cliente0017,"Calle Ejemplo 8670, Ñuñoa",+56984252722,cliente0017@example.com,True
+5.796.838-1,Cliente0018,"Calle Ejemplo 8798, Ñuñoa",+56996028436,cliente0018@example.com,True
+14.545.261-7,Cliente0019,"Calle Ejemplo 54, Ñuñoa",+56977187530,cliente0019@example.com,True
+21.208.991-4,Cliente0020,"Calle Ejemplo 8318, La Florida",+56936697396,cliente0020@example.com,False
+10.652.897-8,Cliente0021,"Calle Ejemplo 10, La Florida",+56953507489,cliente0021@example.com,True
+8.471.999-4,Cliente0022,"Calle Ejemplo 3924, Peñalolén",+56942329237,cliente0022@example.com,True
+7.187.849-7,Cliente0023,"Calle Ejemplo 1134, La Florida",+56926879290,cliente0023@example.com,False
+20.662.269-4,Cliente0024,"Calle Ejemplo 8646, La Florida",+56966792612,cliente0024@example.com,True
+22.873.847-3,Cliente0025,"Calle Ejemplo 5108, Macul",+56997225156,cliente0025@example.com,True
+21.562.223-3,Cliente0026,"Calle Ejemplo 3682, Peñalolén",+56955377076,cliente0026@example.com,False
+22.335.702-3,Cliente0027,"Calle Ejemplo 118, Peñalolén",+56994705205,cliente0027@example.com,False
+7.132.980-5,Cliente0028,"Calle Ejemplo 1161, La Florida",+56941944441,cliente0028@example.com,False
+20.319.652-2,Cliente0029,"Calle Ejemplo 9356, La Florida",+56973440831,cliente0029@example.com,False
+20.926.516-3,Cliente0030,"Calle Ejemplo 1546, Peñalolén",+56998447167,cliente0030@example.com,True
+18.520.578-0,Cliente0031,"Calle Ejemplo 1613, Peñalolén",+56964038913,cliente0031@example.com,True
+8.354.296-3,Cliente0032,"Calle Ejemplo 8787, Macul",+56928814949,cliente0032@example.com,True
+13.573.355-1,Cliente0033,"Calle Ejemplo 7261, La Florida",+56923141087,cliente0033@example.com,False
+22.956.115-1,Cliente0034,"Calle Ejemplo 3873, La Reina",+56964547971,cliente0034@example.com,True
+11.985.510-0,Cliente0035,"Calle Ejemplo 2698, Macul",+56910289289,cliente0035@example.com,True
+13.902.903-7,Cliente0036,"Calle Ejemplo 4674, Macul",+56984593961,cliente0036@example.com,True
+20.258.294-4,Cliente0037,"Calle Ejemplo 3567, Peñalolén",+56987736262,cliente0037@example.com,True
+6.865.421-0,Cliente0038,"Calle Ejemplo 822, La Florida",+56973993471,cliente0038@example.com,True
+21.261.158-8,Cliente0039,"Calle Ejemplo 1313, La Reina",+56919196777,cliente0039@example.com,True
+12.513.222-9,Cliente0040,"Calle Ejemplo 4034, La Florida",+56989795010,cliente0040@example.com,False
+7.529.773-9,Cliente0041,"Calle Ejemplo 9261, La Florida",+56952462441,cliente0041@example.com,True
+11.785.833-5,Cliente0042,"Calle Ejemplo 3911, Ñuñoa",+56963121477,cliente0042@example.com,False
+25.407.568-5,Cliente0043,"Calle Ejemplo 1189, Peñalolén",+56971510041,cliente0043@example.com,True
+23.202.175-8,Cliente0044,"Calle Ejemplo 3493, La Florida",+56945594597,cliente0044@example.com,False
+16.170.350-5,Cliente0045,"Calle Ejemplo 4670, La Reina",+56968812137,cliente0045@example.com,True
+14.726.926-8,Cliente0046,"Calle Ejemplo 129, La Florida",+56950181935,cliente0046@example.com,True
+8.999.237-4,Cliente0047,"Calle Ejemplo 1892, Peñalolén",+56984252420,cliente0047@example.com,False
+14.719.315-5,Cliente0048,"Calle Ejemplo 3336, Ñuñoa",+56977834855,cliente0048@example.com,True
+6.194.749-6,Cliente0049,"Calle Ejemplo 4534, Peñalolén",+56910475894,cliente0049@example.com,True
+9.752.368-2,Cliente0050,"Calle Ejemplo 7240, La Florida",+56967403166,cliente0050@example.com,True
+8.177.807-2,Cliente0051,"Calle Ejemplo 8939, Peñalolén",+56959555330,cliente0051@example.com,True
+9.540.230-0,Cliente0052,"Calle Ejemplo 5051, Ñuñoa",+56915354599,cliente0052@example.com,True
+11.798.355-1,Cliente0053,"Calle Ejemplo 5795, La Florida",+56964543049,cliente0053@example.com,True
+9.342.985-2,Cliente0054,"Calle Ejemplo 2901, Macul",+56913326769,cliente0054@example.com,False
+15.901.521-3,Cliente0055,"Calle Ejemplo 4372, La Reina",+56924508349,cliente0055@example.com,True
+6.979.581-3,Cliente0056,"Calle Ejemplo 3270, Macul",+56956930359,cliente0056@example.com,True
+12.328.124-3,Cliente0057,"Calle Ejemplo 6529, Ñuñoa",+56947393469,cliente0057@example.com,True
+13.459.756-8,Cliente0058,"Calle Ejemplo 6549, La Florida",+56954446182,cliente0058@example.com,True
+8.998.367-2,Cliente0059,"Calle Ejemplo 9513, Ñuñoa",+56915134794,cliente0059@example.com,False
+18.453.846-5,Cliente0060,"Calle Ejemplo 7150, La Florida",+56978642041,cliente0060@example.com,False
+23.294.360-0,Cliente0061,"Calle Ejemplo 7145, Peñalolén",+56979782527,cliente0061@example.com,True
+22.803.836-3,Cliente0062,"Calle Ejemplo 5968, Macul",+56919391725,cliente0062@example.com,True
+15.738.421-1,Cliente0063,"Calle Ejemplo 4921, La Florida",+56951511484,cliente0063@example.com,True
+15.512.813-4,Cliente0064,"Calle Ejemplo 9084, La Reina",+56935748341,cliente0064@example.com,True
+17.793.866-2,Cliente0065,"Calle Ejemplo 9325, Ñuñoa",+56964502486,cliente0065@example.com,True
+5.411.393-3,Cliente0066,"Calle Ejemplo 7044, La Florida",+56991424737,cliente0066@example.com,True
+19.552.552-3,Cliente0067,"Calle Ejemplo 8376, Macul",+56932775593,cliente0067@example.com,True
+14.627.779-9,Cliente0068,"Calle Ejemplo 5492, Peñalolén",+56941523529,cliente0068@example.com,True
+12.925.303-2,Cliente0069,"Calle Ejemplo 401, Peñalolén",+56942862209,cliente0069@example.com,True
+24.970.886-1,Cliente0070,"Calle Ejemplo 7462, Macul",+56994525678,cliente0070@example.com,True
+17.606.509-3,Cliente0071,"Calle Ejemplo 2418, Peñalolén",+56924305904,cliente0071@example.com,True
+12.280.923-8,Cliente0072,"Calle Ejemplo 7612, Peñalolén",+56984813739,cliente0072@example.com,False
+8.567.236-7,Cliente0073,"Calle Ejemplo 8703, La Florida",+56989920257,cliente0073@example.com,True
+19.727.934-8,Cliente0074,"Calle Ejemplo 6992, La Florida",+56969849511,cliente0074@example.com,True
+20.560.365-3,Cliente0075,"Calle Ejemplo 4544, La Florida",+56975041510,cliente0075@example.com,True
+13.550.179-4,Cliente0076,"Calle Ejemplo 3842, Ñuñoa",+56955076693,cliente0076@example.com,True
+22.182.241-2,Cliente0077,"Calle Ejemplo 3789, Macul",+56930509175,cliente0077@example.com,True
+7.524.517-5,Cliente0078,"Calle Ejemplo 8891, Macul",+56965804273,cliente0078@example.com,False
+18.498.888-9,Cliente0079,"Calle Ejemplo 321, La Florida",+56961053877,cliente0079@example.com,True
+16.405.871-6,Cliente0080,"Calle Ejemplo 6866, La Florida",+56983300637,cliente0080@example.com,True
+12.599.324-4,Cliente0081,"Calle Ejemplo 7141, Macul",+56913895645,cliente0081@example.com,True
+17.841.269-7,Cliente0082,"Calle Ejemplo 2092, La Florida",+56981688860,cliente0082@example.com,False
+17.706.677-0,Cliente0083,"Calle Ejemplo 1376, Macul",+56928213276,cliente0083@example.com,True
+10.151.366-6,Cliente0084,"Calle Ejemplo 5364, La Reina",+56971028710,cliente0084@example.com,True
+17.384.870-6,Cliente0085,"Calle Ejemplo 4134, Peñalolén",+56973123515,cliente0085@example.com,False
+22.153.458-3,Cliente0086,"Calle Ejemplo 1125, Peñalolén",+56914164775,cliente0086@example.com,True
+11.959.120-9,Cliente0087,"Calle Ejemplo 2497, La Reina",+56926941092,cliente0087@example.com,True
+8.677.323-7,Cliente0088,"Calle Ejemplo 4199, Ñuñoa",+56932520277,cliente0088@example.com,True
+8.896.938-2,Cliente0089,"Calle Ejemplo 5097, Peñalolén",+56987669750,cliente0089@example.com,False
+14.689.793-6,Cliente0090,"Calle Ejemplo 6499, La Reina",+56920200074,cliente0090@example.com,True
+25.348.204-4,Cliente0091,"Calle Ejemplo 9838, Peñalolén",+56985958181,cliente0091@example.com,True
+16.645.538-5,Cliente0092,"Calle Ejemplo 1130, La Florida",+56996911784,cliente0092@example.com,True
+18.942.601-1,Cliente0093,"Calle Ejemplo 7103, Ñuñoa",+56995306788,cliente0093@example.com,True
+19.824.256-6,Cliente0094,"Calle Ejemplo 2886, La Florida",+56997302916,cliente0094@example.com,False
+22.893.595-7,Cliente0095,"Calle Ejemplo 7137, La Florida",+56946023439,cliente0095@example.com,True
+12.950.188-4,Cliente0096,"Calle Ejemplo 7386, La Reina",+56972372114,cliente0096@example.com,True
+17.444.129-7,Cliente0097,"Calle Ejemplo 5326, La Reina",+56975437844,cliente0097@example.com,False
+13.448.386-9,Cliente0098,"Calle Ejemplo 4527, La Florida",+56911362459,cliente0098@example.com,True
+11.187.347-6,Cliente0099,"Calle Ejemplo 8005, La Florida",+56942255732,cliente0099@example.com,True
+25.828.602-7,Cliente0100,"Calle Ejemplo 283, Peñalolén",+56949491631,cliente0100@example.com,False
+12.413.779-9,Cliente0101,"Calle Ejemplo 6047, Macul",+56984285882,cliente0101@example.com,True
+18.863.663-5,Cliente0102,"Calle Ejemplo 5765, Macul",+56946361787,cliente0102@example.com,True
+12.223.838-3,Cliente0103,"Calle Ejemplo 5170, Peñalolén",+56981922443,cliente0103@example.com,True
+10.296.321-7,Cliente0104,"Calle Ejemplo 4531, La Florida",+56980415568,cliente0104@example.com,True
+8.952.298-4,Cliente0105,"Calle Ejemplo 3728, Ñuñoa",+56934084236,cliente0105@example.com,True
+22.229.380-0,Cliente0106,"Calle Ejemplo 894, La Florida",+56949209916,cliente0106@example.com,True
+9.753.989-7,Cliente0107,"Calle Ejemplo 1681, Peñalolén",+56987049595,cliente0107@example.com,False
+20.551.448-2,Cliente0108,"Calle Ejemplo 842, Ñuñoa",+56974119726,cliente0108@example.com,False
+7.510.603-1,Cliente0109,"Calle Ejemplo 9454, Peñalolén",+56930364454,cliente0109@example.com,False
+23.411.187-3,Cliente0110,"Calle Ejemplo 1941, La Florida",+56965857931,cliente0110@example.com,True
+24.331.894-8,Cliente0111,"Calle Ejemplo 6233, Macul",+56969421007,cliente0111@example.com,False
+23.539.412-9,Cliente0112,"Calle Ejemplo 987, La Florida",+56923318904,cliente0112@example.com,True
+11.740.316-4,Cliente0113,"Calle Ejemplo 1331, La Reina",+56942194159,cliente0113@example.com,False
+7.260.102-6,Cliente0114,"Calle Ejemplo 7382, La Florida",+56973070585,cliente0114@example.com,False
+12.395.823-4,Cliente0115,"Calle Ejemplo 7439, Peñalolén",+56941329612,cliente0115@example.com,True
+25.703.777-3,Cliente0116,"Calle Ejemplo 6966, Peñalolén",+56983089925,cliente0116@example.com,False
+9.372.946-2,Cliente0117,"Calle Ejemplo 1170, Peñalolén",+56932269779,cliente0117@example.com,True
+24.866.944-9,Cliente0118,"Calle Ejemplo 4729, Macul",+56926690465,cliente0118@example.com,True
+14.816.512-4,Cliente0119,"Calle Ejemplo 8200, La Florida",+56976276072,cliente0119@example.com,True
+24.140.542-5,Cliente0120,"Calle Ejemplo 9892, Ñuñoa",+56913471527,cliente0120@example.com,False
+23.701.121-4,Cliente0121,"Calle Ejemplo 9442, Peñalolén",+56933513701,cliente0121@example.com,True
+25.552.384-2,Cliente0122,"Calle Ejemplo 9591, Macul",+56995199362,cliente0122@example.com,True
+7.581.456-6,Cliente0123,"Calle Ejemplo 5461, Ñuñoa",+56999943797,cliente0123@example.com,False
+10.437.521-7,Cliente0124,"Calle Ejemplo 4723, Macul",+56983832717,cliente0124@example.com,False
+7.422.358-5,Cliente0125,"Calle Ejemplo 1900, Macul",+56979067939,cliente0125@example.com,True
+5.773.990-8,Cliente0126,"Calle Ejemplo 7570, Macul",+56917275149,cliente0126@example.com,False
+16.737.874-7,Cliente0127,"Calle Ejemplo 7243, Peñalolén",+56937321124,cliente0127@example.com,False
+9.394.548-7,Cliente0128,"Calle Ejemplo 1990, Peñalolén",+56994560158,cliente0128@example.com,True
+12.826.262-4,Cliente0129,"Calle Ejemplo 9025, Peñalolén",+56984121929,cliente0129@example.com,True
+12.961.216-7,Cliente0130,"Calle Ejemplo 1925, La Reina",+56976890827,cliente0130@example.com,True
+14.621.822-4,Cliente0131,"Calle Ejemplo 6808, Macul",+56973380266,cliente0131@example.com,False
+22.248.492-3,Cliente0132,"Calle Ejemplo 9821, La Florida",+56928321839,cliente0132@example.com,True
+13.891.908-6,Cliente0133,"Calle Ejemplo 5569, La Florida",+56945859307,cliente0133@example.com,True
+14.843.405-9,Cliente0134,"Calle Ejemplo 9502, Macul",+56929944139,cliente0134@example.com,True
+20.453.440-8,Cliente0135,"Calle Ejemplo 8904, Macul",+56971115319,cliente0135@example.com,True
+11.814.344-9,Cliente0136,"Calle Ejemplo 6275, La Reina",+56965133300,cliente0136@example.com,False
+20.822.930-6,Cliente0137,"Calle Ejemplo 6326, La Reina",+56976481885,cliente0137@example.com,True
+9.614.704-5,Cliente0138,"Calle Ejemplo 1645, Macul",+56923383077,cliente0138@example.com,True
+19.115.839-2,Cliente0139,"Calle Ejemplo 6718, La Reina",+56920043277,cliente0139@example.com,True
+13.446.738-6,Cliente0140,"Calle Ejemplo 1316, Ñuñoa",+56981621574,cliente0140@example.com,True
+15.741.835-7,Cliente0141,"Calle Ejemplo 8865, Peñalolén",+56992874006,cliente0141@example.com,False
+25.800.394-3,Cliente0142,"Calle Ejemplo 1481, Macul",+56923212812,cliente0142@example.com,True
+8.554.270-4,Cliente0143,"Calle Ejemplo 475, Peñalolén",+56953536830,cliente0143@example.com,True
+14.467.483-6,Cliente0144,"Calle Ejemplo 2386, La Reina",+56981291936,cliente0144@example.com,True
+10.274.279-1,Cliente0145,"Calle Ejemplo 9986, Macul",+56993176117,cliente0145@example.com,True
+20.697.246-3,Cliente0146,"Calle Ejemplo 7556, Ñuñoa",+56971682508,cliente0146@example.com,False
+5.923.576-4,Cliente0147,"Calle Ejemplo 8956, La Reina",+56919913576,cliente0147@example.com,True
+16.701.406-6,Cliente0148,"Calle Ejemplo 4098, Macul",+56950550084,cliente0148@example.com,False
+17.973.594-1,Cliente0149,"Calle Ejemplo 3887, Macul",+56986762164,cliente0149@example.com,True
+14.816.402-0,Cliente0150,"Calle Ejemplo 6485, Ñuñoa",+56911086890,cliente0150@example.com,True
+6.720.863-7,Cliente0151,"Calle Ejemplo 4690, La Reina",+56991478884,cliente0151@example.com,True
+12.751.294-9,Cliente0152,"Calle Ejemplo 4107, La Reina",+56994322033,cliente0152@example.com,False
+25.761.140-4,Cliente0153,"Calle Ejemplo 7223, Peñalolén",+56987789079,cliente0153@example.com,True
+9.192.402-5,Cliente0154,"Calle Ejemplo 6808, La Reina",+56936950221,cliente0154@example.com,False
+22.997.474-8,Cliente0155,"Calle Ejemplo 8222, Ñuñoa",+56932084778,cliente0155@example.com,False
+20.925.402-5,Cliente0156,"Calle Ejemplo 1887, Macul",+56920106509,cliente0156@example.com,False
+12.980.792-6,Cliente0157,"Calle Ejemplo 9132, Ñuñoa",+56922120246,cliente0157@example.com,True
+5.370.649-1,Cliente0158,"Calle Ejemplo 7452, Ñuñoa",+56945186708,cliente0158@example.com,True
+25.480.210-3,Cliente0159,"Calle Ejemplo 7725, Peñalolén",+56993154172,cliente0159@example.com,True
+22.435.724-3,Cliente0160,"Calle Ejemplo 1036, Macul",+56950559278,cliente0160@example.com,True
+8.243.146-0,Cliente0161,"Calle Ejemplo 4987, Macul",+56925585427,cliente0161@example.com,False
+22.238.497-7,Cliente0162,"Calle Ejemplo 6079, La Florida",+56966254240,cliente0162@example.com,True
+9.524.770-1,Cliente0163,"Calle Ejemplo 8018, La Florida",+56964776386,cliente0163@example.com,True
+13.133.806-5,Cliente0164,"Calle Ejemplo 3560, Macul",+56969686067,cliente0164@example.com,True
+16.201.802-5,Cliente0165,"Calle Ejemplo 8921, Ñuñoa",+56918126895,cliente0165@example.com,True
+11.225.968-7,Cliente0166,"Calle Ejemplo 1502, La Reina",+56996128115,cliente0166@example.com,True
+5.151.905-5,Cliente0167,"Calle Ejemplo 3991, La Reina",+56985776373,cliente0167@example.com,False
+22.312.700-3,Cliente0168,"Calle Ejemplo 3818, Ñuñoa",+56929804386,cliente0168@example.com,True
+24.102.383-2,Cliente0169,"Calle Ejemplo 2130, La Florida",+56943642236,cliente0169@example.com,True
+8.776.987-0,Cliente0170,"Calle Ejemplo 2160, Peñalolén",+56958082464,cliente0170@example.com,True
+12.702.431-0,Cliente0171,"Calle Ejemplo 2855, Ñuñoa",+56917032877,cliente0171@example.com,False
+18.638.216-1,Cliente0172,"Calle Ejemplo 7803, Macul",+56958592048,cliente0172@example.com,True
+8.562.615-3,Cliente0173,"Calle Ejemplo 711, La Florida",+56950484137,cliente0173@example.com,True
+5.162.590-6,Cliente0174,"Calle Ejemplo 6985, Peñalolén",+56975802771,cliente0174@example.com,True
+19.175.182-5,Cliente0175,"Calle Ejemplo 9967, La Reina",+56918815720,cliente0175@example.com,False
+24.748.699-8,Cliente0176,"Calle Ejemplo 5328, Macul",+56990180577,cliente0176@example.com,True
+19.617.719-6,Cliente0177,"Calle Ejemplo 1625, Peñalolén",+56997874085,cliente0177@example.com,True
+22.838.986-3,Cliente0178,"Calle Ejemplo 7047, Macul",+56940667888,cliente0178@example.com,True
+19.508.525-1,Cliente0179,"Calle Ejemplo 5121, Macul",+56951946203,cliente0179@example.com,True
+16.256.803-7,Cliente0180,"Calle Ejemplo 1100, Peñalolén",+56921457410,cliente0180@example.com,False
+8.862.856-5,Cliente0181,"Calle Ejemplo 2132, La Florida",+56918050510,cliente0181@example.com,True
+22.675.437-1,Cliente0182,"Calle Ejemplo 6731, Ñuñoa",+56999300492,cliente0182@example.com,True
+18.988.838-0,Cliente0183,"Calle Ejemplo 4713, La Florida",+56951936181,cliente0183@example.com,True
+23.619.317-2,Cliente0184,"Calle Ejemplo 7901, La Reina",+56924524825,cliente0184@example.com,True
+22.476.217-4,Cliente0185,"Calle Ejemplo 9407, La Reina",+56967594492,cliente0185@example.com,True
+24.728.791-8,Cliente0186,"Calle Ejemplo 431, La Florida",+56998292612,cliente0186@example.com,True
+13.129.284-4,Cliente0187,"Calle Ejemplo 5063, Ñuñoa",+56957113566,cliente0187@example.com,False
+9.679.773-6,Cliente0188,"Calle Ejemplo 1141, La Reina",+56994982908,cliente0188@example.com,True
+7.864.643-3,Cliente0189,"Calle Ejemplo 6164, Macul",+56970887307,cliente0189@example.com,True
+16.419.838-5,Cliente0190,"Calle Ejemplo 9300, La Florida",+56921402740,cliente0190@example.com,True
+9.261.872-9,Cliente0191,"Calle Ejemplo 816, Peñalolén",+56946521025,cliente0191@example.com,True
+18.597.721-7,Cliente0192,"Calle Ejemplo 6786, Ñuñoa",+56938933176,cliente0192@example.com,True
+8.453.540-1,Cliente0193,"Calle Ejemplo 4641, La Florida",+56975314742,cliente0193@example.com,True
+14.146.325-6,Cliente0194,"Calle Ejemplo 9820, Peñalolén",+56911031743,cliente0194@example.com,False
+11.885.240-4,Cliente0195,"Calle Ejemplo 4743, Ñuñoa",+56926104026,cliente0195@example.com,False
+18.279.232-6,Cliente0196,"Calle Ejemplo 8726, La Reina",+56977144075,cliente0196@example.com,True
+16.173.506-0,Cliente0197,"Calle Ejemplo 7148, Peñalolén",+56971707170,cliente0197@example.com,True
+15.689.539-9,Cliente0198,"Calle Ejemplo 6627, Macul",+56948858073,cliente0198@example.com,False
+5.432.275-9,Cliente0199,"Calle Ejemplo 7539, Ñuñoa",+56921828592,cliente0199@example.com,True
+8.349.546-9,Cliente0200,"Calle Ejemplo 6561, La Florida",+56920555833,cliente0200@example.com,True
+14.863.447-3,Cliente0201,"Calle Ejemplo 5457, La Reina",+56920251466,cliente0201@example.com,True
+8.643.622-3,Cliente0202,"Calle Ejemplo 5725, Ñuñoa",+56996629889,cliente0202@example.com,True
+12.205.249-4,Cliente0203,"Calle Ejemplo 3233, La Reina",+56990852623,cliente0203@example.com,False
+25.177.281-7,Cliente0204,"Calle Ejemplo 7602, La Florida",+56987774890,cliente0204@example.com,True
+23.758.750-9,Cliente0205,"Calle Ejemplo 5296, Ñuñoa",+56930261159,cliente0205@example.com,True
+20.552.746-4,Cliente0206,"Calle Ejemplo 4501, La Florida",+56917539294,cliente0206@example.com,True
+7.417.572-7,Cliente0207,"Calle Ejemplo 617, Peñalolén",+56959491122,cliente0207@example.com,True
+7.760.984-1,Cliente0208,"Calle Ejemplo 9734, La Florida",+56961604364,cliente0208@example.com,True
+22.910.856-0,Cliente0209,"Calle Ejemplo 7369, La Florida",+56997488142,cliente0209@example.com,False
+24.587.613-2,Cliente0210,"Calle Ejemplo 1014, Macul",+56923891786,cliente0210@example.com,True
+15.831.186-8,Cliente0211,"Calle Ejemplo 2828, Peñalolén",+56943251599,cliente0211@example.com,True
+19.636.635-9,Cliente0212,"Calle Ejemplo 2601, Ñuñoa",+56960043345,cliente0212@example.com,True
+17.518.893-5,Cliente0213,"Calle Ejemplo 9796, Peñalolén",+56994676162,cliente0213@example.com,True
+7.437.196-8,Cliente0214,"Calle Ejemplo 6334, Ñuñoa",+56943822301,cliente0214@example.com,True
+24.994.253-5,Cliente0215,"Calle Ejemplo 1336, La Florida",+56999068509,cliente0215@example.com,False
+16.417.771-6,Cliente0216,"Calle Ejemplo 2113, La Florida",+56921370793,cliente0216@example.com,True
+17.758.910-5,Cliente0217,"Calle Ejemplo 2094, La Florida",+56922543044,cliente0217@example.com,True
+18.620.470-0,Cliente0218,"Calle Ejemplo 5941, Ñuñoa",+56934194479,cliente0218@example.com,True
+15.884.597-3,Cliente0219,"Calle Ejemplo 3712, La Reina",+56930796389,cliente0219@example.com,False
+8.619.889-8,Cliente0220,"Calle Ejemplo 8627, Peñalolén",+56998842638,cliente0220@example.com,True
+24.234.711-6,Cliente0221,"Calle Ejemplo 2528, La Reina",+56934272734,cliente0221@example.com,True
+24.928.269-7,Cliente0222,"Calle Ejemplo 716, Macul",+56958895439,cliente0222@example.com,True
+12.554.725-4,Cliente0223,"Calle Ejemplo 7356, La Reina",+56981673763,cliente0223@example.com,False
+20.955.298-5,Cliente0224,"Calle Ejemplo 9346, Macul",+56971965637,cliente0224@example.com,True
+17.614.640-6,Cliente0225,"Calle Ejemplo 2656, La Reina",+56991156554,cliente0225@example.com,False
+13.153.756-7,Cliente0226,"Calle Ejemplo 6082, La Florida",+56923769360,cliente0226@example.com,True
+21.971.227-4,Cliente0227,"Calle Ejemplo 1375, La Reina",+56946613428,cliente0227@example.com,True
+21.250.950-6,Cliente0228,"Calle Ejemplo 1503, La Reina",+56970549373,cliente0228@example.com,True
+5.524.154-6,Cliente0229,"Calle Ejemplo 8225, Ñuñoa",+56941645597,cliente0229@example.com,True
+7.483.329-0,Cliente0230,"Calle Ejemplo 5222, Peñalolén",+56997236246,cliente0230@example.com,True
+9.240.139-4,Cliente0231,"Calle Ejemplo 7741, La Reina",+56972962895,cliente0231@example.com,True
+5.181.119-4,Cliente0232,"Calle Ejemplo 3534, La Reina",+56983659258,cliente0232@example.com,True
+24.640.533-1,Cliente0233,"Calle Ejemplo 4721, La Reina",+56950419829,cliente0233@example.com,False
+12.529.754-9,Cliente0234,"Calle Ejemplo 7490, Peñalolén",+56924879094,cliente0234@example.com,True
+20.711.648-0,Cliente0235,"Calle Ejemplo 8444, La Florida",+56942472386,cliente0235@example.com,True
+14.539.101-9,Cliente0236,"Calle Ejemplo 5781, La Reina",+56986593187,cliente0236@example.com,True
+7.636.469-1,Cliente0237,"Calle Ejemplo 8619, La Florida",+56978092370,cliente0237@example.com,True
+21.667.120-6,Cliente0238,"Calle Ejemplo 7703, Peñalolén",+56995318289,cliente0238@example.com,True
+16.359.865-0,Cliente0239,"Calle Ejemplo 5851, Peñalolén",+56956278607,cliente0239@example.com,False
+25.206.890-9,Cliente0240,"Calle Ejemplo 5448, La Reina",+56915950635,cliente0240@example.com,True
+15.933.758-2,Cliente0241,"Calle Ejemplo 7613, Macul",+56994790150,cliente0241@example.com,False
+9.164.833-7,Cliente0242,"Calle Ejemplo 606, Ñuñoa",+56937057085,cliente0242@example.com,False
+11.142.423-4,Cliente0243,"Calle Ejemplo 8445, Macul",+56982884346,cliente0243@example.com,True
+6.871.762-3,Cliente0244,"Calle Ejemplo 4688, Ñuñoa",+56916416148,cliente0244@example.com,True
+15.379.227-5,Cliente0245,"Calle Ejemplo 7160, Macul",+56969020451,cliente0245@example.com,True
+17.447.291-7,Cliente0246,"Calle Ejemplo 8152, Ñuñoa",+56979696025,cliente0246@example.com,False
+7.844.534-1,Cliente0247,"Calle Ejemplo 7056, La Florida",+56934220459,cliente0247@example.com,True
+15.205.181-5,Cliente0248,"Calle Ejemplo 4844, Ñuñoa",+56969849800,cliente0248@example.com,True
+18.270.806-7,Cliente0249,"Calle Ejemplo 5760, Macul",+56915684813,cliente0249@example.com,True
+16.729.545-4,Cliente0250,"Calle Ejemplo 940, Peñalolén",+56995565484,cliente0250@example.com,True
+21.920.867-2,Cliente0251,"Calle Ejemplo 511, La Reina",+56991547054,cliente0251@example.com,True
+19.135.229-1,Cliente0252,"Calle Ejemplo 3867, Ñuñoa",+56958607028,cliente0252@example.com,True
+23.133.719-2,Cliente0253,"Calle Ejemplo 7372, Ñuñoa",+56959930790,cliente0253@example.com,True
+7.687.240-8,Cliente0254,"Calle Ejemplo 6013, Macul",+56952196099,cliente0254@example.com,True
+12.216.126-2,Cliente0255,"Calle Ejemplo 8177, La Florida",+56961940566,cliente0255@example.com,True
+8.368.893-4,Cliente0256,"Calle Ejemplo 7312, La Reina",+56992124765,cliente0256@example.com,False
+20.304.225-2,Cliente0257,"Calle Ejemplo 1214, Macul",+56933173544,cliente0257@example.com,True
+19.189.929-5,Cliente0258,"Calle Ejemplo 5693, Peñalolén",+56983819367,cliente0258@example.com,True
+14.971.261-2,Cliente0259,"Calle Ejemplo 5923, La Florida",+56940097200,cliente0259@example.com,False
+11.911.242-3,Cliente0260,"Calle Ejemplo 8095, Peñalolén",+56958438711,cliente0260@example.com,True
+16.578.922-8,Cliente0261,"Calle Ejemplo 2127, La Florida",+56921571646,cliente0261@example.com,False
+17.834.836-7,Cliente0262,"Calle Ejemplo 8613, Macul",+56964953237,cliente0262@example.com,True
+7.228.424-1,Cliente0263,"Calle Ejemplo 7373, Macul",+56979438885,cliente0263@example.com,True
+22.755.701-2,Cliente0264,"Calle Ejemplo 2115, Macul",+56977493234,cliente0264@example.com,True
+6.951.227-8,Cliente0265,"Calle Ejemplo 2508, Ñuñoa",+56932099899,cliente0265@example.com,False
+12.454.631-4,Cliente0266,"Calle Ejemplo 1293, Ñuñoa",+56936347197,cliente0266@example.com,True
+22.381.228-4,Cliente0267,"Calle Ejemplo 8741, Peñalolén",+56977454225,cliente0267@example.com,True
+23.694.257-2,Cliente0268,"Calle Ejemplo 9915, Ñuñoa",+56985647532,cliente0268@example.com,False
+5.183.146-9,Cliente0269,"Calle Ejemplo 4337, La Reina",+56986790955,cliente0269@example.com,True
+25.131.609-8,Cliente0270,"Calle Ejemplo 4746, Ñuñoa",+56974819756,cliente0270@example.com,False
+17.404.564-1,Cliente0271,"Calle Ejemplo 982, La Reina",+56969002851,cliente0271@example.com,True
+19.308.448-9,Cliente0272,"Calle Ejemplo 2354, Ñuñoa",+56952857920,cliente0272@example.com,True
+16.508.233-5,Cliente0273,"Calle Ejemplo 8438, La Florida",+56924251766,cliente0273@example.com,True
+19.225.373-7,Cliente0274,"Calle Ejemplo 4062, La Reina",+56922993840,cliente0274@example.com,False
+17.984.730-6,Cliente0275,"Calle Ejemplo 4068, La Reina",+56953947691,cliente0275@example.com,True
+15.294.881-2,Cliente0276,"Calle Ejemplo 8164, La Florida",+56972654864,cliente0276@example.com,True
+14.609.123-1,Cliente0277,"Calle Ejemplo 6443, La Florida",+56971368457,cliente0277@example.com,True
+11.697.461-0,Cliente0278,"Calle Ejemplo 829, Ñuñoa",+56976423575,cliente0278@example.com,True
+25.788.581-4,Cliente0279,"Calle Ejemplo 8794, Peñalolén",+56924428014,cliente0279@example.com,True
+13.844.474-6,Cliente0280,"Calle Ejemplo 5996, Peñalolén",+56963765155,cliente0280@example.com,False
+22.299.471-8,Cliente0281,"Calle Ejemplo 4729, Peñalolén",+56961854861,cliente0281@example.com,True
+22.386.945-9,Cliente0282,"Calle Ejemplo 1947, La Reina",+56922976369,cliente0282@example.com,True
+15.671.474-2,Cliente0283,"Calle Ejemplo 3262, La Florida",+56978333267,cliente0283@example.com,True
+6.146.139-2,Cliente0284,"Calle Ejemplo 5457, Macul",+56979703656,cliente0284@example.com,True
+24.627.243-5,Cliente0285,"Calle Ejemplo 5219, La Reina",+56962741471,cliente0285@example.com,True
+14.707.444-8,Cliente0286,"Calle Ejemplo 8352, La Florida",+56975746104,cliente0286@example.com,True
+14.586.935-0,Cliente0287,"Calle Ejemplo 6036, Ñuñoa",+56924710878,cliente0287@example.com,True
+23.415.915-0,Cliente0288,"Calle Ejemplo 9780, Macul",+56945638891,cliente0288@example.com,True
+23.691.333-0,Cliente0289,"Calle Ejemplo 9561, Macul",+56932885741,cliente0289@example.com,True
+24.893.961-6,Cliente0290,"Calle Ejemplo 2422, La Reina",+56914237322,cliente0290@example.com,True
+8.295.119-7,Cliente0291,"Calle Ejemplo 5140, Macul",+56930324759,cliente0291@example.com,True
+11.520.613-9,Cliente0292,"Calle Ejemplo 7727, Peñalolén",+56928533117,cliente0292@example.com,True
+22.432.778-7,Cliente0293,"Calle Ejemplo 8610, Macul",+56952111160,cliente0293@example.com,True
+19.645.450-8,Cliente0294,"Calle Ejemplo 5805, Ñuñoa",+56991883092,cliente0294@example.com,True
+12.385.671-4,Cliente0295,"Calle Ejemplo 3685, Ñuñoa",+56948789478,cliente0295@example.com,True
+20.424.591-5,Cliente0296,"Calle Ejemplo 9184, Ñuñoa",+56948626436,cliente0296@example.com,False
+22.488.504-5,Cliente0297,"Calle Ejemplo 2400, Ñuñoa",+56915646068,cliente0297@example.com,False
+7.454.552-4,Cliente0298,"Calle Ejemplo 7850, La Reina",+56937121108,cliente0298@example.com,True
+13.675.812-4,Cliente0299,"Calle Ejemplo 2250, Peñalolén",+56992634772,cliente0299@example.com,True
+12.348.151-8,Cliente0300,"Calle Ejemplo 3698, La Reina",+56917045237,cliente0300@example.com,False

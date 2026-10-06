@@ -1,0 +1,6 @@
+id_tipo_vacuna,nombre_vacuna,descripcion,frecuencia_dias,costo_vacuna,precio_venta
+1,Óctuple,Vacuna Óctuple,365,12000,25000
+2,Antirrábica,Vacuna Antirrábica,365,8000,18000
+3,Triple felina,Vacuna Triple felina,365,10000,22000
+4,Bordetella,Vacuna Bordetella,180,9000,20000
+5,Leucemia felina,Vacuna Leucemia felina,365,15000,30000

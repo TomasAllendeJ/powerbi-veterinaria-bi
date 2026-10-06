@@ -1,0 +1,421 @@
+id_mascota,nombre,especie,raza,fecha_nacimiento,sexo,rut_cliente
+1,Mascota0001,Perro,Labrador,2021-05-16,M,14.545.261-7
+2,Mascota0002,Gato,Angora,2016-03-06,H,21.208.991-4
+3,Mascota0003,Perro,Poodle,2014-05-29,H,20.697.246-3
+4,Mascota0004,Gato,Angora,2015-01-04,H,13.446.738-6
+5,Mascota0005,Perro,Quiltro,2019-06-01,M,20.711.648-0
+6,Mascota0006,Gato,Siamés,2012-04-25,H,12.751.294-9
+7,Mascota0007,Perro,Labrador,2021-02-03,H,22.755.701-2
+8,Mascota0008,Gato,Común europeo,2020-12-27,M,22.893.595-7
+9,Mascota0009,Perro,Bulldog,2019-04-04,M,23.384.928-0
+10,Mascota0010,Gato,Angora,2017-04-13,H,20.822.930-6
+11,Mascota0011,Gato,Persa,2012-04-03,H,22.476.217-4
+12,Mascota0012,Perro,Quiltro,2014-08-26,H,5.370.649-1
+13,Mascota0013,Perro,Bulldog,2023-04-09,H,23.294.360-0
+14,Mascota0014,Gato,Persa,2016-12-14,M,12.925.303-2
+15,Mascota0015,Gato,Siamés,2022-03-16,H,17.518.893-5
+16,Mascota0016,Gato,Siamés,2017-07-20,M,25.131.609-8
+17,Mascota0017,Gato,Persa,2013-10-01,M,8.354.296-3
+18,Mascota0018,Perro,Pastor,2015-05-12,M,22.312.700-3
+19,Mascota0019,Gato,Común europeo,2016-08-09,H,8.999.237-4
+20,Mascota0020,Gato,Común europeo,2022-03-03,M,7.228.424-1
+21,Mascota0021,Gato,Angora,2013-04-17,H,5.370.649-1
+22,Mascota0022,Perro,Bulldog,2017-09-15,M,23.539.412-9
+23,Mascota0023,Perro,Quiltro,2021-07-02,H,13.573.355-1
+24,Mascota0024,Perro,Quiltro,2022-08-03,M,5.923.576-4
+25,Mascota0025,Gato,Siamés,2015-01-14,H,18.597.721-7
+26,Mascota0026,Gato,Angora,2020-06-19,H,11.785.833-5
+27,Mascota0027,Perro,Poodle,2014-08-29,M,15.294.881-2
+28,Mascota0028,Gato,Siamés,2016-12-29,M,6.334.941-0
+29,Mascota0029,Gato,Angora,2021-07-06,H,24.866.944-9
+30,Mascota0030,Perro,Bulldog,2019-10-06,M,25.800.394-3
+31,Mascota0031,Perro,Quiltro,2012-09-20,H,19.750.954-5
+32,Mascota0032,Perro,Labrador,2013-07-05,M,5.796.838-1
+33,Mascota0033,Gato,Común europeo,2017-06-27,M,20.552.746-4
+34,Mascota0034,Gato,Siamés,2016-11-14,M,12.280.923-8
+35,Mascota0035,Gato,Siamés,2019-02-25,H,25.552.384-2
+36,Mascota0036,Gato,Siamés,2023-09-10,M,19.636.635-9
+37,Mascota0037,Gato,Persa,2013-05-14,M,15.884.597-3
+38,Mascota0038,Gato,Común europeo,2019-09-22,H,5.183.146-9
+39,Mascota0039,Gato,Angora,2021-02-26,M,9.192.402-5
+40,Mascota0040,Gato,Siamés,2022-08-15,M,25.703.777-3
+41,Mascota0041,Gato,Siamés,2022-05-21,M,23.415.915-0
+42,Mascota0042,Gato,Angora,2023-11-20,M,5.432.275-9
+43,Mascota0043,Perro,Poodle,2016-07-23,H,7.529.773-9
+44,Mascota0044,Gato,Persa,2014-01-27,M,22.335.702-3
+45,Mascota0045,Gato,Angora,2012-11-19,M,17.444.129-7
+46,Mascota0046,Perro,Bulldog,2016-09-07,H,20.925.402-5
+47,Mascota0047,Perro,Labrador,2016-04-05,M,17.447.291-7
+48,Mascota0048,Perro,Pastor,2016-08-02,H,7.581.456-6
+49,Mascota0049,Gato,Persa,2020-07-15,H,19.225.373-7
+50,Mascota0050,Gato,Persa,2017-11-12,H,7.228.424-1
+51,Mascota0051,Gato,Angora,2014-03-18,H,13.133.806-5
+52,Mascota0052,Perro,Poodle,2019-01-07,H,20.662.269-4
+53,Mascota0053,Perro,Labrador,2012-05-12,H,6.146.139-2
+54,Mascota0054,Gato,Persa,2015-06-02,M,24.102.383-2
+55,Mascota0055,Perro,Bulldog,2017-07-06,H,22.386.945-9
+56,Mascota0056,Gato,Persa,2022-12-16,H,14.539.101-9
+57,Mascota0057,Perro,Poodle,2015-10-18,M,13.844.474-6
+58,Mascota0058,Gato,Siamés,2013-04-26,M,21.261.158-8
+59,Mascota0059,Perro,Quiltro,2021-04-01,M,14.816.512-4
+60,Mascota0060,Perro,Labrador,2012-03-15,M,14.971.261-2
+61,Mascota0061,Gato,Persa,2013-05-10,H,16.729.545-4
+62,Mascota0062,Perro,Quiltro,2023-12-08,H,17.180.665-4
+63,Mascota0063,Perro,Pastor,2018-02-28,H,19.750.954-5
+64,Mascota0064,Gato,Siamés,2014-05-26,M,5.183.146-9
+65,Mascota0065,Perro,Labrador,2016-04-21,H,22.675.437-1
+66,Mascota0066,Gato,Angora,2013-10-09,H,7.760.984-1
+67,Mascota0067,Gato,Siamés,2017-01-24,H,11.785.833-5
+68,Mascota0068,Perro,Quiltro,2021-02-02,H,14.146.325-6
+69,Mascota0069,Gato,Común europeo,2012-03-18,M,25.407.568-5
+70,Mascota0070,Gato,Angora,2019-06-06,M,17.404.564-1
+71,Mascota0071,Perro,Labrador,2016-09-27,H,19.115.839-2
+72,Mascota0072,Perro,Quiltro,2018-04-15,M,16.645.538-5
+73,Mascota0073,Gato,Común europeo,2016-08-24,M,25.177.281-7
+74,Mascota0074,Perro,Poodle,2015-08-23,M,8.295.119-7
+75,Mascota0075,Gato,Persa,2020-08-10,M,7.529.773-9
+76,Mascota0076,Gato,Común europeo,2014-03-11,H,14.816.512-4
+77,Mascota0077,Perro,Poodle,2020-11-23,H,7.873.148-1
+78,Mascota0078,Gato,Angora,2023-01-02,M,18.988.838-0
+79,Mascota0079,Gato,Angora,2016-03-01,H,23.202.175-8
+80,Mascota0080,Gato,Siamés,2013-08-25,M,9.614.704-5
+81,Mascota0081,Perro,Bulldog,2015-06-17,H,9.524.770-1
+82,Mascota0082,Gato,Común europeo,2014-01-19,M,5.370.649-1
+83,Mascota0083,Gato,Persa,2018-01-18,M,14.627.779-9
+84,Mascota0084,Perro,Labrador,2021-08-31,H,14.707.444-8
+85,Mascota0085,Gato,Común europeo,2012-08-03,M,22.675.437-1
+86,Mascota0086,Perro,Pastor,2019-04-11,H,17.180.665-4
+87,Mascota0087,Gato,Angora,2020-09-11,M,14.586.935-0
+88,Mascota0088,Perro,Pastor,2023-09-08,M,11.885.240-4
+89,Mascota0089,Perro,Labrador,2018-01-11,H,9.614.704-5
+90,Mascota0090,Gato,Siamés,2013-06-02,M,12.554.725-4
+91,Mascota0091,Gato,Angora,2018-09-21,H,12.513.222-9
+92,Mascota0092,Gato,Persa,2017-07-13,H,12.413.779-9
+93,Mascota0093,Gato,Común europeo,2015-01-14,H,23.384.928-0
+94,Mascota0094,Gato,Persa,2020-07-09,H,13.153.756-7
+95,Mascota0095,Gato,Angora,2015-01-20,H,16.201.802-5
+96,Mascota0096,Perro,Bulldog,2019-01-17,M,25.177.281-7
+97,Mascota0097,Gato,Persa,2023-01-05,M,5.151.905-5
+98,Mascota0098,Gato,Persa,2020-10-23,H,8.998.367-2
+99,Mascota0099,Perro,Pastor,2016-01-13,M,7.636.469-1
+100,Mascota0100,Perro,Bulldog,2018-07-14,M,24.587.613-2
+101,Mascota0101,Gato,Siamés,2018-10-16,M,12.961.216-7
+102,Mascota0102,Perro,Bulldog,2020-06-15,M,7.483.329-0
+103,Mascota0103,Gato,Angora,2023-12-26,H,25.788.581-4
+104,Mascota0104,Perro,Poodle,2013-11-27,M,9.394.548-7
+105,Mascota0105,Gato,Siamés,2012-12-28,H,8.776.987-0
+106,Mascota0106,Gato,Común europeo,2012-03-27,M,13.891.908-6
+107,Mascota0107,Perro,Pastor,2023-08-20,M,5.524.154-6
+108,Mascota0108,Gato,Angora,2022-05-21,M,19.617.719-6
+109,Mascota0109,Perro,Bulldog,2014-05-06,H,17.518.893-5
+110,Mascota0110,Perro,Quiltro,2015-03-06,H,22.435.724-3
+111,Mascota0111,Gato,Angora,2016-08-21,H,19.508.525-1
+112,Mascota0112,Gato,Común europeo,2021-10-29,H,13.133.806-5
+113,Mascota0113,Perro,Poodle,2013-01-01,M,6.334.941-0
+114,Mascota0114,Gato,Común europeo,2015-09-08,M,6.951.227-8
+115,Mascota0115,Perro,Pastor,2015-08-04,H,14.586.935-0
+116,Mascota0116,Gato,Angora,2017-03-14,H,22.893.595-7
+117,Mascota0117,Perro,Bulldog,2020-11-14,M,18.863.663-5
+118,Mascota0118,Gato,Angora,2020-09-20,M,23.411.187-3
+119,Mascota0119,Perro,Poodle,2013-05-27,M,17.984.730-6
+120,Mascota0120,Perro,Poodle,2019-04-24,M,20.711.648-0
+121,Mascota0121,Perro,Poodle,2022-12-23,H,5.432.275-9
+122,Mascota0122,Gato,Común europeo,2019-10-21,H,20.711.648-0
+123,Mascota0123,Perro,Poodle,2013-11-25,M,8.243.146-0
+124,Mascota0124,Perro,Labrador,2018-11-06,M,19.824.256-6
+125,Mascota0125,Gato,Siamés,2023-06-16,H,24.994.253-5
+126,Mascota0126,Perro,Pastor,2020-08-09,H,12.950.188-4
+127,Mascota0127,Gato,Siamés,2015-09-28,H,16.701.406-6
+128,Mascota0128,Perro,Labrador,2019-01-21,H,7.132.980-5
+129,Mascota0129,Gato,Común europeo,2022-11-13,M,25.828.602-7
+130,Mascota0130,Gato,Angora,2021-03-05,H,17.518.893-5
+131,Mascota0131,Gato,Angora,2015-10-02,M,24.893.961-6
+132,Mascota0132,Perro,Labrador,2018-07-20,M,15.741.835-7
+133,Mascota0133,Perro,Pastor,2018-06-22,M,20.711.648-0
+134,Mascota0134,Gato,Común europeo,2014-07-24,H,25.788.581-4
+135,Mascota0135,Gato,Común europeo,2021-11-24,M,18.620.470-0
+136,Mascota0136,Perro,Labrador,2018-09-04,M,9.240.139-4
+137,Mascota0137,Gato,Persa,2013-12-13,H,23.294.360-0
+138,Mascota0138,Perro,Labrador,2019-11-12,H,17.384.870-6
+139,Mascota0139,Perro,Labrador,2016-08-22,M,11.520.613-9
+140,Mascota0140,Gato,Persa,2015-10-11,H,14.816.402-0
+141,Mascota0141,Gato,Persa,2023-07-16,M,24.970.886-1
+142,Mascota0142,Gato,Común europeo,2018-03-21,M,14.627.779-9
+143,Mascota0143,Perro,Labrador,2019-03-23,M,8.643.622-3
+144,Mascota0144,Gato,Siamés,2018-01-10,H,8.453.540-1
+145,Mascota0145,Gato,Común europeo,2014-02-01,H,22.755.701-2
+146,Mascota0146,Gato,Persa,2022-03-13,H,22.312.700-3
+147,Mascota0147,Perro,Quiltro,2022-04-13,H,13.573.355-1
+148,Mascota0148,Gato,Siamés,2021-08-20,M,7.687.240-8
+149,Mascota0149,Gato,Persa,2018-05-12,H,22.299.471-8
+150,Mascota0150,Perro,Pastor,2022-11-19,H,22.873.847-3
+151,Mascota0151,Perro,Quiltro,2022-04-22,M,15.512.813-4
+152,Mascota0152,Perro,Bulldog,2022-03-28,M,8.619.889-8
+153,Mascota0153,Perro,Labrador,2018-10-08,M,15.741.835-7
+154,Mascota0154,Perro,Poodle,2017-08-13,M,9.261.872-9
+155,Mascota0155,Perro,Quiltro,2020-11-20,H,24.140.542-5
+156,Mascota0156,Gato,Común europeo,2014-02-18,M,23.411.187-3
+157,Mascota0157,Gato,Común europeo,2014-12-23,M,12.454.631-4
+158,Mascota0158,Gato,Común europeo,2012-03-07,H,22.803.836-3
+159,Mascota0159,Gato,Siamés,2022-09-18,M,24.866.944-9
+160,Mascota0160,Gato,Común europeo,2014-04-19,M,8.243.146-0
+161,Mascota0161,Gato,Persa,2015-01-28,H,12.925.303-2
+162,Mascota0162,Perro,Quiltro,2023-11-24,M,17.384.870-6
+163,Mascota0163,Gato,Persa,2016-10-11,M,15.831.186-8
+164,Mascota0164,Gato,Siamés,2013-12-11,M,12.280.923-8
+165,Mascota0165,Perro,Pastor,2020-08-11,H,8.619.889-8
+166,Mascota0166,Gato,Siamés,2017-07-22,H,23.202.175-8
+167,Mascota0167,Perro,Pastor,2018-05-23,M,22.997.474-8
+168,Mascota0168,Perro,Pastor,2023-06-06,M,14.863.447-3
+169,Mascota0169,Gato,Común europeo,2017-05-14,H,15.689.539-9
+170,Mascota0170,Perro,Labrador,2023-03-16,M,17.404.564-1
+171,Mascota0171,Perro,Poodle,2019-02-05,M,5.432.275-9
+172,Mascota0172,Gato,Persa,2015-11-16,H,6.865.421-0
+173,Mascota0173,Perro,Pastor,2013-07-07,M,20.453.440-8
+174,Mascota0174,Perro,Quiltro,2013-05-10,H,11.911.242-3
+175,Mascota0175,Gato,Angora,2021-07-01,H,25.407.568-5
+176,Mascota0176,Perro,Poodle,2013-11-15,H,7.529.773-9
+177,Mascota0177,Perro,Labrador,2019-04-30,H,22.956.115-1
+178,Mascota0178,Gato,Angora,2017-05-08,M,5.773.990-8
+179,Mascota0179,Perro,Bulldog,2014-08-08,H,20.319.652-2
+180,Mascota0180,Gato,Siamés,2014-09-05,M,17.606.509-3
+181,Mascota0181,Perro,Labrador,2023-02-18,H,23.694.257-2
+182,Mascota0182,Gato,Siamés,2020-05-04,M,9.614.704-5
+183,Mascota0183,Perro,Quiltro,2019-07-07,H,13.446.738-6
+184,Mascota0184,Perro,Poodle,2013-09-23,H,12.529.754-9
+185,Mascota0185,Gato,Común europeo,2023-03-16,M,7.864.643-3
+186,Mascota0186,Perro,Poodle,2014-04-22,M,9.372.946-2
+187,Mascota0187,Perro,Quiltro,2012-04-10,M,20.662.269-4
+188,Mascota0188,Gato,Persa,2020-08-03,M,16.645.538-5
+189,Mascota0189,Perro,Pastor,2021-05-28,M,16.201.802-5
+190,Mascota0190,Perro,Bulldog,2019-03-05,H,12.513.222-9
+191,Mascota0191,Gato,Común europeo,2023-04-05,M,16.645.538-5
+192,Mascota0192,Perro,Pastor,2013-01-11,H,13.902.903-7
+193,Mascota0193,Gato,Persa,2018-12-20,H,16.170.350-5
+194,Mascota0194,Gato,Común europeo,2020-04-10,M,14.816.402-0
+195,Mascota0195,Gato,Siamés,2022-05-28,H,23.133.719-2
+196,Mascota0196,Perro,Pastor,2017-07-01,M,23.384.928-0
+197,Mascota0197,Gato,Común europeo,2017-03-23,H,11.881.444-1
+198,Mascota0198,Gato,Común europeo,2020-06-09,H,9.342.985-2
+199,Mascota0199,Perro,Pastor,2017-05-05,H,19.135.229-1
+200,Mascota0200,Perro,Labrador,2018-04-11,M,7.187.849-7
+201,Mascota0201,Perro,Pastor,2021-04-06,H,20.711.648-0
+202,Mascota0202,Perro,Pastor,2014-02-21,M,8.643.622-3
+203,Mascota0203,Perro,Pastor,2013-05-25,H,19.552.552-3
+204,Mascota0204,Perro,Poodle,2017-11-08,H,8.643.622-3
+205,Mascota0205,Gato,Persa,2022-02-25,H,24.140.542-5
+206,Mascota0206,Perro,Labrador,2015-01-20,M,16.405.871-6
+207,Mascota0207,Perro,Labrador,2022-01-30,H,8.243.146-0
+208,Mascota0208,Gato,Común europeo,2020-01-14,M,5.181.119-4
+209,Mascota0209,Gato,Angora,2017-12-10,M,8.999.237-4
+210,Mascota0210,Perro,Poodle,2012-11-26,M,22.312.700-3
+211,Mascota0211,Perro,Quiltro,2017-07-26,H,12.205.249-4
+212,Mascota0212,Perro,Poodle,2017-11-01,M,7.873.148-1
+213,Mascota0213,Gato,Angora,2017-08-08,M,7.636.469-1
+214,Mascota0214,Perro,Labrador,2014-09-21,M,8.354.296-3
+215,Mascota0215,Perro,Labrador,2016-06-11,H,9.261.872-9
+216,Mascota0216,Perro,Pastor,2017-10-21,M,6.334.941-0
+217,Mascota0217,Perro,Labrador,2021-12-11,M,14.719.315-5
+218,Mascota0218,Gato,Común europeo,2012-12-15,H,21.562.223-3
+219,Mascota0219,Perro,Pastor,2021-09-18,H,12.216.126-2
+220,Mascota0220,Perro,Bulldog,2021-07-27,M,22.675.437-1
+221,Mascota0221,Perro,Labrador,2018-03-02,H,5.524.154-6
+222,Mascota0222,Perro,Quiltro,2017-07-06,H,8.368.893-4
+223,Mascota0223,Gato,Angora,2013-05-14,M,14.467.483-6
+224,Mascota0224,Gato,Siamés,2021-05-27,M,25.131.609-8
+225,Mascota0225,Perro,Pastor,2012-06-08,H,23.619.317-2
+226,Mascota0226,Gato,Angora,2019-09-19,H,5.432.275-9
+227,Mascota0227,Gato,Siamés,2012-08-01,H,11.740.316-4
+228,Mascota0228,Perro,Poodle,2013-04-24,H,19.308.448-9
+229,Mascota0229,Gato,Siamés,2015-07-31,M,16.737.874-7
+230,Mascota0230,Perro,Poodle,2023-12-20,M,11.740.316-4
+231,Mascota0231,Gato,Persa,2015-11-24,M,25.552.384-2
+232,Mascota0232,Gato,Persa,2012-08-19,H,8.295.119-7
+233,Mascota0233,Perro,Pastor,2016-03-22,H,11.697.461-0
+234,Mascota0234,Gato,Siamés,2022-12-31,M,8.999.237-4
+235,Mascota0235,Perro,Labrador,2016-11-27,M,25.131.609-8
+236,Mascota0236,Gato,Común europeo,2019-06-10,M,19.552.552-3
+237,Mascota0237,Gato,Siamés,2019-04-04,M,6.334.941-0
+238,Mascota0238,Perro,Pastor,2015-03-06,M,25.131.609-8
+239,Mascota0239,Gato,Común europeo,2020-05-18,H,9.540.230-0
+240,Mascota0240,Gato,Persa,2019-03-27,M,12.599.324-4
+241,Mascota0241,Gato,Angora,2019-02-12,M,23.415.915-0
+242,Mascota0242,Gato,Siamés,2015-12-07,H,5.370.649-1
+243,Mascota0243,Gato,Siamés,2015-12-26,M,19.645.450-8
+244,Mascota0244,Gato,Común europeo,2016-01-31,H,7.260.102-6
+245,Mascota0245,Perro,Bulldog,2015-02-26,H,12.513.222-9
+246,Mascota0246,Perro,Poodle,2019-03-02,M,14.726.926-8
+247,Mascota0247,Gato,Angora,2012-04-03,H,20.551.448-2
+248,Mascota0248,Perro,Quiltro,2019-11-11,H,6.979.581-3
+249,Mascota0249,Perro,Quiltro,2020-08-27,H,24.994.253-5
+250,Mascota0250,Perro,Bulldog,2023-01-22,H,16.256.803-7
+251,Mascota0251,Gato,Común europeo,2022-10-02,M,10.151.366-6
+252,Mascota0252,Gato,Común europeo,2012-09-30,H,10.573.488-4
+253,Mascota0253,Gato,Persa,2014-05-07,M,24.748.699-8
+254,Mascota0254,Perro,Bulldog,2015-08-11,M,22.299.471-8
+255,Mascota0255,Perro,Poodle,2022-10-29,M,24.234.711-6
+256,Mascota0256,Perro,Pastor,2021-09-26,M,7.132.980-5
+257,Mascota0257,Perro,Poodle,2016-08-10,M,24.587.613-2
+258,Mascota0258,Gato,Persa,2018-09-02,M,9.752.368-2
+259,Mascota0259,Perro,Bulldog,2023-01-04,M,7.132.980-5
+260,Mascota0260,Gato,Común europeo,2021-08-03,M,6.720.863-7
+261,Mascota0261,Gato,Siamés,2014-03-05,M,22.229.380-0
+262,Mascota0262,Perro,Poodle,2013-11-02,H,18.453.846-5
+263,Mascota0263,Gato,Angora,2022-07-24,H,11.814.344-9
+264,Mascota0264,Perro,Pastor,2020-09-09,M,16.419.838-5
+265,Mascota0265,Gato,Persa,2016-03-08,H,7.187.849-7
+266,Mascota0266,Gato,Angora,2022-06-06,H,25.703.777-3
+267,Mascota0267,Gato,Común europeo,2015-05-23,M,23.202.175-8
+268,Mascota0268,Gato,Angora,2017-02-06,M,5.432.275-9
+269,Mascota0269,Gato,Angora,2017-04-14,H,9.192.402-5
+270,Mascota0270,Perro,Bulldog,2012-10-11,M,22.803.836-3
+271,Mascota0271,Gato,Siamés,2015-10-01,M,11.187.347-6
+272,Mascota0272,Perro,Quiltro,2021-06-30,M,12.554.725-4
+273,Mascota0273,Perro,Labrador,2017-10-13,H,11.985.510-0
+274,Mascota0274,Perro,Bulldog,2020-11-29,H,25.800.394-3
+275,Mascota0275,Gato,Común europeo,2023-09-20,H,13.459.756-8
+276,Mascota0276,Gato,Siamés,2015-04-29,M,15.901.521-3
+277,Mascota0277,Perro,Poodle,2019-09-17,H,11.814.344-9
+278,Mascota0278,Gato,Angora,2022-08-11,M,8.896.938-2
+279,Mascota0279,Gato,Angora,2015-03-24,H,21.208.991-4
+280,Mascota0280,Gato,Persa,2017-04-30,M,6.871.762-3
+281,Mascota0281,Gato,Persa,2012-06-14,H,20.925.402-5
+282,Mascota0282,Gato,Persa,2023-01-10,M,9.372.946-2
+283,Mascota0283,Perro,Poodle,2021-12-08,H,9.614.704-5
+284,Mascota0284,Gato,Común europeo,2016-03-19,H,7.510.603-1
+285,Mascota0285,Gato,Angora,2023-08-02,H,20.319.652-2
+286,Mascota0286,Perro,Quiltro,2018-12-23,H,24.970.886-1
+287,Mascota0287,Perro,Labrador,2016-04-28,M,20.926.516-3
+288,Mascota0288,Perro,Quiltro,2022-03-28,M,22.476.217-4
+289,Mascota0289,Perro,Poodle,2020-04-05,H,14.971.261-2
+290,Mascota0290,Gato,Común europeo,2012-09-07,M,9.261.872-9
+291,Mascota0291,Gato,Angora,2015-12-25,H,15.671.474-2
+292,Mascota0292,Gato,Persa,2015-09-01,H,8.999.237-4
+293,Mascota0293,Gato,Común europeo,2020-09-01,M,10.151.366-6
+294,Mascota0294,Perro,Labrador,2017-01-18,M,9.614.704-5
+295,Mascota0295,Gato,Común europeo,2012-03-13,H,14.627.779-9
+296,Mascota0296,Perro,Pastor,2012-03-10,M,12.961.216-7
+297,Mascota0297,Gato,Persa,2021-07-03,H,19.508.525-1
+298,Mascota0298,Gato,Persa,2016-11-22,H,22.997.474-8
+299,Mascota0299,Gato,Común europeo,2012-03-01,H,23.415.915-0
+300,Mascota0300,Gato,Persa,2014-06-04,H,13.573.355-1
+301,Mascota0301,Gato,Persa,2019-04-17,H,14.843.405-9
+302,Mascota0302,Gato,Siamés,2015-05-13,M,20.926.516-3
+303,Mascota0303,Gato,Persa,2015-02-20,M,12.216.126-2
+304,Mascota0304,Gato,Persa,2021-05-21,H,5.432.275-9
+305,Mascota0305,Perro,Pastor,2016-04-04,H,7.260.102-6
+306,Mascota0306,Gato,Persa,2023-05-18,H,8.677.323-7
+307,Mascota0307,Perro,Poodle,2014-03-10,H,5.411.393-3
+308,Mascota0308,Gato,Siamés,2019-07-12,M,7.260.102-6
+309,Mascota0309,Gato,Siamés,2018-11-20,H,8.776.987-0
+310,Mascota0310,Gato,Persa,2018-08-05,H,23.294.360-0
+311,Mascota0311,Gato,Común europeo,2013-08-06,H,25.828.602-7
+312,Mascota0312,Perro,Bulldog,2023-11-19,H,19.636.635-9
+313,Mascota0313,Perro,Labrador,2015-01-30,M,24.748.699-8
+314,Mascota0314,Gato,Angora,2015-03-19,H,18.942.601-1
+315,Mascota0315,Perro,Bulldog,2019-06-17,M,8.243.146-0
+316,Mascota0316,Perro,Quiltro,2022-02-20,H,20.551.448-2
+317,Mascota0317,Perro,Pastor,2015-07-21,H,14.726.926-8
+318,Mascota0318,Perro,Pastor,2021-09-22,H,7.417.572-7
+319,Mascota0319,Gato,Angora,2020-08-06,M,21.208.991-4
+320,Mascota0320,Perro,Poodle,2012-04-25,H,19.308.448-9
+321,Mascota0321,Perro,Quiltro,2012-02-03,M,25.703.777-3
+322,Mascota0322,Gato,Persa,2014-11-22,M,16.173.506-0
+323,Mascota0323,Gato,Siamés,2013-06-18,M,25.761.140-4
+324,Mascota0324,Gato,Angora,2023-09-02,H,12.554.725-4
+325,Mascota0325,Perro,Poodle,2022-12-29,H,17.444.129-7
+326,Mascota0326,Perro,Bulldog,2012-06-05,M,12.395.823-4
+327,Mascota0327,Perro,Labrador,2012-06-28,M,15.512.813-4
+328,Mascota0328,Gato,Común europeo,2020-05-31,H,19.225.373-7
+329,Mascota0329,Perro,Pastor,2013-01-27,M,10.573.488-4
+330,Mascota0330,Perro,Quiltro,2021-05-07,H,11.885.240-4
+331,Mascota0331,Perro,Pastor,2017-09-01,H,18.498.888-9
+332,Mascota0332,Perro,Quiltro,2018-10-02,H,9.540.230-0
+333,Mascota0333,Gato,Siamés,2021-05-24,M,17.834.836-7
+334,Mascota0334,Perro,Poodle,2014-07-22,M,12.216.126-2
+335,Mascota0335,Perro,Pastor,2016-06-24,H,23.694.257-2
+336,Mascota0336,Perro,Poodle,2021-03-10,H,17.706.677-0
+337,Mascota0337,Perro,Pastor,2023-02-18,M,7.844.534-1
+338,Mascota0338,Gato,Siamés,2012-01-23,M,14.726.926-8
+339,Mascota0339,Perro,Pastor,2023-01-30,M,8.999.237-4
+340,Mascota0340,Perro,Quiltro,2017-09-27,M,12.529.754-9
+341,Mascota0341,Gato,Persa,2022-05-31,M,9.540.230-0
+342,Mascota0342,Perro,Quiltro,2018-07-08,H,8.243.146-0
+343,Mascota0343,Gato,Común europeo,2014-02-17,M,11.881.444-1
+344,Mascota0344,Perro,Labrador,2019-05-16,H,17.614.640-6
+345,Mascota0345,Gato,Común europeo,2020-05-10,H,19.824.256-6
+346,Mascota0346,Perro,Bulldog,2020-12-22,H,13.446.738-6
+347,Mascota0347,Gato,Angora,2021-06-16,M,13.459.756-8
+348,Mascota0348,Perro,Quiltro,2015-07-29,M,7.437.196-8
+349,Mascota0349,Gato,Angora,2016-01-24,H,23.619.317-2
+350,Mascota0350,Perro,Labrador,2022-11-01,H,13.459.756-8
+351,Mascota0351,Gato,Angora,2013-01-11,M,14.843.405-9
+352,Mascota0352,Gato,Común europeo,2023-10-09,M,5.162.590-6
+353,Mascota0353,Perro,Bulldog,2017-07-29,H,22.838.986-3
+354,Mascota0354,Gato,Siamés,2013-03-23,M,12.599.324-4
+355,Mascota0355,Gato,Angora,2015-09-16,M,19.135.229-1
+356,Mascota0356,Gato,Siamés,2019-06-03,H,21.562.223-3
+357,Mascota0357,Perro,Pastor,2020-06-28,H,23.701.121-4
+358,Mascota0358,Perro,Bulldog,2021-12-17,H,14.726.926-8
+359,Mascota0359,Gato,Angora,2019-02-02,M,12.216.126-2
+360,Mascota0360,Perro,Quiltro,2021-01-17,H,14.545.261-7
+361,Mascota0361,Perro,Quiltro,2018-10-31,M,12.529.754-9
+362,Mascota0362,Gato,Persa,2013-03-20,M,24.640.533-1
+363,Mascota0363,Gato,Angora,2020-02-24,H,8.998.367-2
+364,Mascota0364,Perro,Labrador,2012-01-18,H,22.675.437-1
+365,Mascota0365,Gato,Persa,2014-05-20,M,17.384.870-6
+366,Mascota0366,Gato,Siamés,2021-03-06,M,14.621.822-4
+367,Mascota0367,Perro,Labrador,2014-09-16,H,24.331.894-8
+368,Mascota0368,Gato,Siamés,2019-07-31,M,17.518.893-5
+369,Mascota0369,Perro,Pastor,2014-10-06,H,20.711.648-0
+370,Mascota0370,Perro,Bulldog,2012-02-05,M,6.146.139-2
+371,Mascota0371,Gato,Angora,2023-05-27,M,22.488.504-5
+372,Mascota0372,Perro,Labrador,2014-04-28,H,16.201.802-5
+373,Mascota0373,Gato,Angora,2017-07-26,H,25.177.281-7
+374,Mascota0374,Gato,Persa,2022-02-26,M,17.606.509-3
+375,Mascota0375,Gato,Persa,2019-01-15,M,12.223.838-3
+376,Mascota0376,Perro,Pastor,2018-07-08,H,14.627.779-9
+377,Mascota0377,Perro,Pastor,2019-03-25,M,8.862.856-5
+378,Mascota0378,Gato,Angora,2023-12-22,H,17.758.910-5
+379,Mascota0379,Perro,Pastor,2014-05-22,M,18.279.232-6
+380,Mascota0380,Perro,Quiltro,2013-04-08,M,20.822.930-6
+381,Mascota0381,Perro,Poodle,2017-08-14,M,8.354.296-3
+382,Mascota0382,Gato,Siamés,2012-09-21,H,5.181.119-4
+383,Mascota0383,Perro,Pastor,2017-01-11,H,25.552.384-2
+384,Mascota0384,Gato,Común europeo,2020-07-22,H,7.437.196-8
+385,Mascota0385,Gato,Común europeo,2012-04-16,H,10.296.321-7
+386,Mascota0386,Gato,Siamés,2020-03-31,M,25.828.602-7
+387,Mascota0387,Gato,Angora,2015-12-24,M,12.950.188-4
+388,Mascota0388,Perro,Pastor,2014-09-04,H,10.652.897-8
+389,Mascota0389,Gato,Persa,2017-12-04,M,17.706.677-0
+390,Mascota0390,Gato,Común europeo,2019-05-31,H,16.405.871-6
+391,Mascota0391,Perro,Labrador,2019-03-27,M,22.997.474-8
+392,Mascota0392,Gato,Persa,2013-08-20,H,25.131.609-8
+393,Mascota0393,Perro,Labrador,2023-09-04,M,14.971.261-2
+394,Mascota0394,Perro,Bulldog,2021-01-17,M,19.508.525-1
+395,Mascota0395,Perro,Labrador,2019-06-11,H,22.476.217-4
+396,Mascota0396,Gato,Siamés,2023-11-24,H,23.415.915-0
+397,Mascota0397,Perro,Quiltro,2019-10-05,H,10.437.521-7
+398,Mascota0398,Perro,Quiltro,2019-03-14,H,8.998.367-2
+399,Mascota0399,Gato,Persa,2018-05-05,M,6.951.227-8
+400,Mascota0400,Gato,Angora,2022-12-01,M,12.751.294-9
+401,Mascota0401,Perro,Poodle,2023-07-11,M,9.752.368-2
+402,Mascota0402,Perro,Pastor,2023-12-17,M,22.956.115-1
+403,Mascota0403,Perro,Labrador,2021-07-07,M,22.229.380-0
+404,Mascota0404,Gato,Común europeo,2015-06-13,M,14.539.101-9
+405,Mascota0405,Gato,Común europeo,2013-12-17,M,7.132.980-5
+406,Mascota0406,Perro,Poodle,2013-07-31,M,13.891.908-6
+407,Mascota0407,Gato,Angora,2022-02-12,H,24.928.269-7
+408,Mascota0408,Gato,Común europeo,2020-09-25,M,19.225.373-7
+409,Mascota0409,Perro,Pastor,2013-06-02,M,6.865.421-0
+410,Mascota0410,Gato,Común europeo,2018-07-02,H,16.170.350-5
+411,Mascota0411,Gato,Angora,2020-07-21,H,7.873.148-1
+412,Mascota0412,Gato,Siamés,2023-12-19,M,24.970.886-1
+413,Mascota0413,Gato,Persa,2015-03-26,H,18.597.721-7
+414,Mascota0414,Perro,Pastor,2015-03-04,M,8.471.999-4
+415,Mascota0415,Perro,Pastor,2020-11-02,M,12.980.792-6
+416,Mascota0416,Perro,Poodle,2016-09-30,H,7.228.424-1
+417,Mascota0417,Perro,Labrador,2016-02-16,M,12.961.216-7
+418,Mascota0418,Perro,Quiltro,2016-01-25,M,22.386.945-9
+419,Mascota0419,Gato,Común europeo,2018-07-09,M,12.826.262-4
+420,Mascota0420,Perro,Labrador,2022-12-05,H,18.988.838-0
